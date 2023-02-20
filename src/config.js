@@ -1,1 +1,1 @@
-export const OPENAI_API_KEY = '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';
+export const OPENAI_API_KEY = 'inserisci la chiave';
